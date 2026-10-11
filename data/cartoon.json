@@ -1548,7 +1548,7 @@
                 "release_date": "2002-03-14",
                 "softcore": false,
                 "video": false,
-                "vote_average": 7.385,
+                "vote_average": 8.2,
                 "vote_count": 14694,
                 "genres": [
                     {
@@ -2578,7 +2578,7 @@
                 "release_date": "1994-06-15",
                 "softcore": false,
                 "video": false,
-                "vote_average": 8.2,
+                "vote_average": 7.385,
                 "vote_count": 20244,
                 "genres": [
                     {
@@ -3268,7 +3268,7 @@
                 }
             }
         ],
-        
+
     "Movies": {
         "Action": [
             {
